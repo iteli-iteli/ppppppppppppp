@@ -216,3 +216,9 @@ input:not(.disabled):not([disabled]):hover, input:not(.disabled):not([disabled])
 .collection-tags {
 	display: none !important;
 }
+
+
+/* preferred date checkout */
+.dbtfy-delivery_date {
+	display: none;
+}
