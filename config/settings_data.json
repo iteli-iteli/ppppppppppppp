@@ -2,8 +2,9 @@
   "current": {
     "search_enabled": false,
     "color_secondary": "#ddad80",
-    "color_drawer_bg": "#f5f5f5",
-    "color_drawer_default": "#f5f5f5",
+    "color_drawer_bg": "#ffffff",
+    "color_drawer_default": "#ffffff",
+    "color_drawer_text": "#212529",
     "color_drawer_button_text": "#FFFFFF",
     "color_drawer_secondary": "#ddad80",
     "color_footer_bg": "#e5e5e5",
