@@ -217,8 +217,12 @@ input:not(.disabled):not([disabled]):hover, input:not(.disabled):not([disabled])
 	display: none !important;
 }
 
-
-/* preferred date checkout */
-/* .dbtfy-delivery_date {
+.drawer__inner:nth-child(3) {
 	display: none;
-} */
+} 
+.drawer__inner:nth-child(4) {
+	display: none;
+} 
+.drawer__inner:nth-child(6) {
+	display: none;
+} 
