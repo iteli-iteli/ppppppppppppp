@@ -223,7 +223,7 @@
         {%- endfor -%}
       </div>
 
-      {%- render "dbtfy-delivery-date", position: "cart_drawer" -%}
+      {% comment %} {%- render "dbtfy-delivery-date", position: "cart_drawer" -%} {% endcomment %}
       {%- render "dbtfy-cart-discount", position: "cart_drawer" -%}
 
       {%- render "dbtfy-gift-wrap", position: "cart_drawer" -%}
@@ -281,7 +281,7 @@
         </div>
       {%- endif -%}
 
-      {%- render "dbtfy-order-feedback", position: "cart_drawer" -%}
+      {% comment %} {%- render "dbtfy-order-feedback", position: "cart_drawer" -%} {% endcomment %}
 
       {%- if settings.cart_notes_enable -%}
         <div class="drawer__inner-section">
