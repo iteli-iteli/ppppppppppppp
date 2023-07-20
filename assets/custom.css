@@ -219,6 +219,6 @@ input:not(.disabled):not([disabled]):hover, input:not(.disabled):not([disabled])
 
 
 /* preferred date checkout */
-.dbtfy-delivery_date {
+/* .dbtfy-delivery_date {
 	display: none;
-}
+} */
