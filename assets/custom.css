@@ -217,12 +217,7 @@ input:not(.disabled):not([disabled]):hover, input:not(.disabled):not([disabled])
 	display: none !important;
 }
 
-.drawer__inner:nth-child(3) {
-	display: none !important;
-} 
-.drawer__inner:nth-child(4) {
-	display: none !important;
-} 
-.drawer__inner:nth-child(6) {
-	display: none !important;
-} 
+/* hide free shipping cart drawer */
+.drawer__inner  .dbtfy-cart_goal {
+	display: none;
+}
