@@ -425,7 +425,7 @@
               "title": "",
               "guarantee_icon": "verified_user",
               "heading_text": "Satisfait ou remboursé",
-              "text": "<p>Si vous n'êtes pas satisfaite, nous vous remboursons intégralement dans un délai de 30 jours.<\/p>",
+              "text": "<p>Si vous n'êtes pas satisfait, nous vous remboursons intégralement dans les 30 jours.<\/p>",
               "text_alignment": "text-center",
               "text_alignment_mobile": "text-center",
               "button_style": "btn-outline-primary",
