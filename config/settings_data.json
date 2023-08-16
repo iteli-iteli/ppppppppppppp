@@ -33,8 +33,8 @@
             "type": "point",
             "settings": {
               "title": "",
-              "dbtfy_bullet_point_text_1": "<p>Soulage pieds, genoux et doz<\/p>",
-              "dbtfy_bullet_point_icon_1": "sentiment_very_satisfied",
+              "dbtfy_bullet_point_text_1": "<p>Protection sans couture pour une confiance discrète, à tout moment et en tout lieu<\/p>",
+              "dbtfy_bullet_point_icon_1": "star",
               "visibility_1": "all",
               "dbtfy_bullet_point_collection_1": "",
               "dbtfy_bullet_point_type_1": "",
@@ -109,7 +109,7 @@
             "type": "point",
             "settings": {
               "title": "",
-              "dbtfy_bullet_point_text_1": "<p>Livraison gratuite à l'achat de 2 paires<\/p>",
+              "dbtfy_bullet_point_text_1": "<p>Livraison gratuite dans toute l'Europe : 4 à 9 jours ouvrables pour les commandes de deux boîtes ou plus.<\/p>",
               "dbtfy_bullet_point_icon_1": "local_shipping",
               "visibility_1": "all",
               "dbtfy_bullet_point_collection_1": "",
@@ -185,7 +185,7 @@
             "type": "point",
             "settings": {
               "title": "",
-              "dbtfy_bullet_point_text_1": "<p>  20'000+ clients satisfaits<\/p>",
+              "dbtfy_bullet_point_text_1": "<p>Plus de 10 000 clients satisfaits<\/p>",
               "dbtfy_bullet_point_icon_1": "verified",
               "visibility_1": "all",
               "dbtfy_bullet_point_collection_1": "",
