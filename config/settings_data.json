@@ -23,6 +23,11 @@
     "dbtfy_newsletter_floating_bar": false,
     "dbtfy_trust_badge_product": false,
     "dbtfy_trust_badge_cart": false,
+    "checkout_logo_image": "shopify:\/\/shop_images\/logo_font.png",
+    "checkout_logo_position": "center",
+    "checkout_logo_size": "small",
+    "checkout_accent_color": "#ddad80",
+    "checkout_button_color": "#ddad80",
     "sections": {
       "dbtfy-account-settings": {
         "type": "dbtfy-account-settings",
