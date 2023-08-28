@@ -280,10 +280,10 @@
       "dbtfy-cart-goal": {
         "type": "dbtfy-cart-goal",
         "settings": {
-          "dbtfy_cart_goal_before_text": "You're",
-          "dbtfy_cart_goal_amount": "70",
-          "dbtfy_cart_goal_after_text": "away from FREE shipping!",
-          "dbtfy_cart_goal_reached_text": "You are eligible for FREE shipping!",
+          "dbtfy_cart_goal_before_text": "Vous êtes à",
+          "dbtfy_cart_goal_amount": "51.8",
+          "dbtfy_cart_goal_after_text": "de la livraison GRATUITE !",
+          "dbtfy_cart_goal_reached_text": "Vous êtes éligible à la livraison GRATUITE !",
           "dbtfy_cart_goal_icons": "local_shipping"
         }
       },
