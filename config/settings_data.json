@@ -1,6 +1,7 @@
 {
   "current": {
     "search_enabled": false,
+    "enable_history_state": false,
     "color_secondary": "#ddad80",
     "color_drawer_bg": "#ffffff",
     "color_drawer_default": "#ffffff",
@@ -581,12 +582,6 @@
       "855628211100114053": {
         "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/klaviyo-onsite-embed\/2632fe16-c075-4321-a88b-50b567f42507",
         "disabled": false,
-        "settings": {
-        }
-      },
-      "6143736321357441667": {
-        "type": "shopify:\/\/apps\/tidio-live-chat-chatbots\/blocks\/app-embed\/1002274d-fb18-4939-98f6-5f05a8deeadc",
-        "disabled": true,
         "settings": {
         }
       }
