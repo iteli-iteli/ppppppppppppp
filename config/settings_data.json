@@ -2,13 +2,13 @@
   "current": {
     "search_enabled": false,
     "enable_history_state": false,
-    "color_secondary": "#ddad80",
+    "color_secondary": "#000000",
     "color_drawer_bg": "#ffffff",
     "color_drawer_default": "#ffffff",
-    "color_drawer_border": "#ddad80",
+    "color_drawer_border": "#000000",
     "color_drawer_text": "#212529",
     "color_drawer_button_text": "#FFFFFF",
-    "color_drawer_secondary": "#ddad80",
+    "color_drawer_secondary": "#000000",
     "color_drawer_input": "#E5E5E5",
     "color_footer_bg": "#e5e5e5",
     "color_footer_text": "#1e0840",
@@ -437,9 +437,6 @@
           "main_menu_link_list": "main-menu",
           "navigation_type": "center",
           "logo_link": true,
-          "default_logo": "shopify:\/\/shop_images\/logo_font.png",
-          "inverted_logo": "shopify:\/\/shop_images\/logo_font_white_copy.png",
-          "mobile_logo": "shopify:\/\/shop_images\/logo_font.png",
           "default_logo_svg": "",
           "inverted_logo_svg": "",
           "mobile_logo_svg": "",
@@ -577,14 +574,6 @@
     },
     "content_for_index": [
 
-    ],
-    "blocks": {
-      "855628211100114053": {
-        "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/klaviyo-onsite-embed\/2632fe16-c075-4321-a88b-50b567f42507",
-        "disabled": false,
-        "settings": {
-        }
-      }
-    }
+    ]
   }
 }
